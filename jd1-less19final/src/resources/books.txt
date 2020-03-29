@@ -1,0 +1,3 @@
+id=1 author=Author1 title=Book1 price=101230
+id=2 author=Author2 title=Book2 price=231223
+id=3 author=Author3 title=Book3 price=502131
